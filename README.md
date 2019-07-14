@@ -3,7 +3,7 @@ A project over which I work in my spare time and which should (probably) allow e
 
 This mod is a *.esp* file with the changes necessary for the proper operation of the original Chaos Heart plugin with OpenMW multiplayer.
 
-<details>
+<details open>
   <summary>Things that are fixed</summary>
   * Fixed the behavior of all bandits
   * All necromancy books are now works properly 
