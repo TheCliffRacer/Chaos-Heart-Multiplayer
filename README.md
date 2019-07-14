@@ -14,6 +14,6 @@ This mod is a *.esp* file with the changes necessary for the proper operation of
 <details>
   <summary>Things that are not fixed yet</summary>
   
-  1. **_CH_Startup** script is currently not working properly, **disable** command doesn't work on OpenMW
+  1. **_CH_Startup** script is currently not working properly, **disable** command doesn't work on OpenMW, As a result, we have many NPC's that should not be initialized in the world at the start of the game.
 
 </details>
