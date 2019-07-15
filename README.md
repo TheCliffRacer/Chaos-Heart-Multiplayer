@@ -3,6 +3,11 @@ A project over which I work in my spare time and which should (probably) allow e
 
 This mod is a *.esp* file with the changes necessary for the proper operation of the original Chaos Heart plugin with OpenMW multiplayer.
 
+Things needed to start:
+1. Morrowind GOTY
+2. [OpenMW multiplayer mod](https://tes3mp.com/)
+3. Chaos Heart mod
+
 <details>
   <summary>Things that are fixed</summary>
   
